@@ -89,6 +89,8 @@ text-align: center;
        display: flex;
        text-align: center;
        border-radius: 10PX; 
+     height: 1010px; 
+       overflow-y: scroll;
 }
 .po{
     background-color:  rgb(117 151 239 / 13%);
